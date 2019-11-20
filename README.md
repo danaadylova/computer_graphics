@@ -1,4 +1,4 @@
-# computer_graphics
+# Computer Graphics
 Contents of computer graphics class - ray tracing assignments
 
 Class taken in Westminster College - the notes are included. 
